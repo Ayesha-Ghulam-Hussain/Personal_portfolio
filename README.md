@@ -20,4 +20,5 @@ Usman: contact.html, footer & links
 
 Then open the index.html on chrome because it is the main page.
 
-![24](https://github.com/user-attachments/assets/e86cccf2-7b16-4a8c-b94f-7c3dac921e4c)
+
+![collaburators](https://github.com/user-attachments/assets/d3f3a54d-0b7e-4e1e-9a22-75291c2c6e59)
