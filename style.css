@@ -1,0 +1,75 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f9f9f9;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #333;
+  color: white;
+  padding: 20px 0;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 15px;
+}
+
+nav a.active {
+  text-decoration: underline;
+}
+
+.container {
+  max-width: 900px;
+  margin: 30px auto;
+  padding: 20px;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 5px;
+  color: #444;
+}
+
+.edu-item {
+  margin-bottom: 15px;
+}
+
+.skill {
+  margin-bottom: 20px;
+}
+
+.skill-bar {
+  height: 20px;
+  background-color: #ddd;
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+.skill-level {
+  height: 100%;
+  color: white;
+  padding-right: 10px;
+  text-align: right;
+  line-height: 20px;
+}
+
+/* Skill bar colors */
+.html { width: 90%; background-color: #e34c26; }
+.css { width: 85%; background-color: #2965f1; }
+.js { width: 70%; background-color: #f0db4f; color: #000; }
+.python { width: 75%; background-color: #4B8BBE; }
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background: #222;
+  color: white;
+  margin-top: 40px;
+}
